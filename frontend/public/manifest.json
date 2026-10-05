@@ -1,0 +1,18 @@
+{
+  "short_name": "CropSathi",
+  "name": "CropSathi — See. Verify. Protect.",
+  "description": "Multi-Stage Agricultural Crop Disease Triage Engine",
+  "icons": [
+    {
+      "src": "/leaf-shield.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#061d15",
+  "theme_color": "#0a2e22",
+  "display": "standalone",
+  "orientation": "portrait"
+}
